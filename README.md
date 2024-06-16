@@ -34,3 +34,22 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Rutu83/PRODIGY_CS_01.git
+then run it with python
+python [filename]
+
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Author
+
+[Rutu83]
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+## Issues
+
+If you encounter any issues or have questions, please open an issue in this repository.
