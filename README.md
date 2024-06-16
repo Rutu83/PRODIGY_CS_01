@@ -33,4 +33,4 @@ This is a graphical user interface (GUI) application for encrypting and decrypti
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/caesar-cipher-gui.git
+git clone https://github.com/Rutu83/PRODIGY_CS_01.git
